@@ -1,3 +1,8 @@
+# This software uses the community version of the manim animation library for python
+# https://github.com/ManimCommunity/manim
+# The manim license can be found in manim-license.txt.
+
+
 import copy
 import math
 
